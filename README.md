@@ -1,3 +1,3 @@
 # ejercicio
 Escuela de Fotografia
-HTML y css
+HTML y CSS
